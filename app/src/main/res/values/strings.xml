@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Permissions Multi-Feature Lab</string>
+    <string name="notification_channel">Permission lab</string>
+</resources>
